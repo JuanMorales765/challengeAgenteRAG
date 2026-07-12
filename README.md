@@ -2,13 +2,19 @@
 
 ---
 
+### [Visita el agente RAG](https://challenge-agenterag-2346.streamlit.app/)
+
 <p align="center">
 
 <img src="/imgGif/animacion.gif">
 
 </p>
 
-[Visita el agente RAG](https://challenge-agenterag-2346.streamlit.app/)
+<p align="center">
+
+<img src="/imgGif/imagencel.gif">
+
+</p>
 
 ---
 
