@@ -13,17 +13,17 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; align-items: center; justify-items: center;">
   <!-- Imagen 1 - Izquierda -->
   <div style="justify-self: start;">
-    <img src="/imgGif/imagencel.gif" width="80%" height="auto">
+    <img src="/imgGif/imagencel.gif" width="30%" height="auto">
   </div>
   
   <!-- Imagen 2 - Derecha -->
   <div style="justify-self: end;">
-    <img src="/imgGif/imagencel.gif" width="80%" height="auto">
+    <img src="/imgGif/imagencel.gif" width="30%" height="auto">
   </div>
   
   <!-- Imagen 3 - Izquierda -->
   <div style="justify-self: start;">
-    <img src="/imgGif/imagencel.gif" width="80%" height="auto">
+    <img src="/imgGif/imagencel.gif" width="30%" height="auto">
   </div>
 </div>
 
