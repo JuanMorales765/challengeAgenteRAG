@@ -19,6 +19,7 @@
 ---
 
 <img src="/imgGif/imagencel.gif" width="30%" align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Asistente de Reembolsos MERCADO CENTRAL 24H - Chatbot Inteligente
 
