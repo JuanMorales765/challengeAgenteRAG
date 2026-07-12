@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="/imgGif/imagencel.gif" width="20%" height="auto">
+  <img src="/imgGif/imagencel.gif" width="25%" height="auto">
 </p>
 
 ---
