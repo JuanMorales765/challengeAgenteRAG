@@ -8,7 +8,7 @@
 
 <img src="/imgGif/animacion.gif">
 
-<img src="/imgGif/imagencel.gif" width="30%" height="auto" align="left">
+<img src="/imgGif/imagencel.gif" width="30%" height="auto" align="left" align="center" >
 
 </p>
 
