@@ -4,13 +4,18 @@
 
 ### [Visita el agente RAG](https://challenge-agenterag-2346.streamlit.app/)
 
+#### Demostración en computador
+
 <p align="center">
 <img src="/imgGif/animacion.gif">
 </p>
 
+#### Demostración en celular
+
 <p align="center">
 <img src="/imgGif/imagencel.gif" width="100%" height="auto">
 </p>
+
 ---
 
 ## Asistente de Reembolsos MERCADO CENTRAL 24H - Chatbot Inteligente
