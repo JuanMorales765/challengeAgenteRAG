@@ -1,6 +1,13 @@
 # AGENTE DE POLÍTICA DE ATENCIÓN AL CLIENTE, CAMBIOS Y DEVOLUCIONES MERCADO CENTRAL 24H (challenge Agente RAG)
 
 ---
+
+<p align="center">
+
+<img src="/imgGif/animacion.gif">
+
+</p>
+
 [Visita el agente RAG](https://challenge-agenterag-2346.streamlit.app/)
 
 ---
