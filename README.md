@@ -14,6 +14,11 @@
   <img src="/imgGif/imagencel.gif" width="30%" height="auto">
 </p>
 
+<div style="overflow: auto;">
+  <img src="/imgGif/imagencel.gif" width="30%" height="auto" style="float: left; margin-right: 20px;">
+  <p><strong>Visualización del Agente en pantallas de teléfonos inteligentes.</strong></p>
+</div>
+
 ---
 
 
