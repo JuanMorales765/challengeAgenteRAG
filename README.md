@@ -5,13 +5,12 @@
 ### [Visita el agente RAG](https://challenge-agenterag-2346.streamlit.app/)
 
 <p align="center">
-
 <img src="/imgGif/animacion.gif">
-
-<img src="/imgGif/imagencel.gif" width="30%" height="auto" align="left" align="center" >
-
 </p>
 
+<p align="center">
+<img src="/imgGif/imagencel.gif" width="30%" height="auto">
+</p>
 ---
 
 ## Asistente de Reembolsos MERCADO CENTRAL 24H - Chatbot Inteligente
