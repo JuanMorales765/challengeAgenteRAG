@@ -1,6 +1,10 @@
 # AGENTE DE POLÍTICA DE ATENCIÓN AL CLIENTE, CAMBIOS Y DEVOLUCIONES MERCADO CENTRAL 24H (challenge Agente RAG)
 
-[Visita el modelo](https://challenge-agenterag-2346.streamlit.app/)
+---
+[Visita el agente RAG](https://challenge-agenterag-2346.streamlit.app/)
+
+---
+
 
 ## Asistente de Reembolsos MERCADO CENTRAL 24H - Chatbot Inteligente
 
@@ -12,7 +16,7 @@ Asistente de Reembolsos es un chatbot inteligente basado en **RAG (Retrieval-Aug
 Proporcionar un asistente virtual que pueda responder preguntas sobre políticas de reembolso, plazos, procesos y documentación necesaria, extrayendo información directamente del [documento oficial de políticas de la empresa](https://cdn1.gnarususercontent.com.br/documents/6/internal/b9abdeaf-ffcb-46c4-8e1b-16935a594875.pdf).
 
 **Documento referente implementado:**
-[Mercado center documento pdf](https://cdn1.gnarususercontent.com.br/documents/6/internal/b9abdeaf-ffcb-46c4-8e1b-16935a594875.pdf)
+![Mercado center documento pdf](https://cdn1.gnarususercontent.com.br/documents/6/internal/b9abdeaf-ffcb-46c4-8e1b-16935a594875.pdf)
 
 ### 🚀 Características Principales
 
