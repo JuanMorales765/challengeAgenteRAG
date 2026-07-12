@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="/imgGif/imagencel.gif" width="30%" height="auto">
+<img src="/imgGif/imagencel.gif" width="100%" height="auto">
 </p>
 ---
 
