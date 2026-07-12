@@ -16,19 +16,8 @@
 
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-
-  <!-- Imagen izquierda -->
-  <div style="flex: 1; text-align: left;">
-    <img src="/imgGif/imagencel.gif" width="30%" height="auto">
-  </div>
-
-  <!-- Imagen derecha -->
-  <div style="flex: 1; text-align: right;">
-    <img src="/imgGif/animacion.gif">
-  </div>
-
-</div>
+<img src="/imgGif/imagencel.gif" width="30%" align="left">
+<img src="/imgGif/animacion.gif" align="right">
 
 ---
 
