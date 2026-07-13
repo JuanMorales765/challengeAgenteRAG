@@ -271,13 +271,18 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👥 Autor
 
-- Juan David Morales Fonnegra
+- [Juan David Morales Fonnegra](https://www.linkedin.com/in/juan-david-m-257464330)
 
 ## 🙏 Agradecimientos
 
 - Kevin Torre Giraldo
 - Alura (ONE: IMERSIÓN AGENTE IA)
+- [Álvaro Hernando Camacho Diaz](https://www.linkedin.com/in/ahcamachod/)
+- [Fabrício Carraro](https://www.linkedin.com/in/fabriciocarraro)
+- [Nicolás Ariel Sena](https://www.linkedin.com/in/nicosena10/)
+- [Martin Bonino](https://www.linkedin.com/in/martin-bonino-75399a20/)
 
+  
 ---
 **Desarrollado para Mercado Central 24h**
 
