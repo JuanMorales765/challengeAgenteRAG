@@ -276,7 +276,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ## 🙏 Agradecimientos
 
 - Kevin Torre Giraldo
-- Alura (ONE: IMERSIÓN AGENTE IA)
+- [Alura (ONE: IMERSIÓN AGENTE IA)](https://www.aluracursos.com/)
 - [Álvaro Hernando Camacho Diaz](https://www.linkedin.com/in/ahcamachod/)
 - [Fabrício Carraro](https://www.linkedin.com/in/fabriciocarraro)
 - [Nicolás Ariel Sena](https://www.linkedin.com/in/nicosena10/)
