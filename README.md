@@ -271,7 +271,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👥 Autor
 
-- [Juan David Morales Fonnegra](https://www.linkedin.com/in/juan-david-m-257464330)
+- [Juan David Morales Fonnegra](https://www.linkedin.com/in/juan-david-m-257464330/)
 
 ## 🙏 Agradecimientos
 
@@ -281,7 +281,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - [Fabrício Carraro](https://www.linkedin.com/in/fabriciocarraro)
 - [Nicolás Ariel Sena](https://www.linkedin.com/in/nicosena10/)
 - [Martin Bonino](https://www.linkedin.com/in/martin-bonino-75399a20/)
-
+- [Wilfredo Rojas](https://www.linkedin.com/in/wilfredo-rojas/)
   
 ---
 **Desarrollado para Mercado Central 24h**
